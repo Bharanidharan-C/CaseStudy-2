@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=F\:\\CaseStudy2\\VendorManagementService\\.git;F\:\\CaseStudy2\\InventoryManagementService\\.git;F\:\\CaseStudy2\\.git;F\:\\CaseStudy2\\CustomerAPI\\.git;F\:\\CaseStudy2\\OrderManagementSystem\\.git;
+GitRepositoriesView.GitDirectories.relative=VendorManagementService\\.git;InventoryManagementService\\.git;.git;CustomerAPI\\.git;OrderManagementSystem\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
